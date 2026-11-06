@@ -1,0 +1,13 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Sample Analytics Dashboard",
+    "client": "Acme Corp",
+    "description": "A data analytics dashboard built for internal reporting.",
+    "status": "in-progress",
+    "team": ["Data Analyst", "Software Developer"],
+    "tags": ["analytics", "dashboard"],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
